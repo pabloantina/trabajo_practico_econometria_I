@@ -33,7 +33,7 @@ Este notebook contiene el código documentado y los outputs generados, permitien
  
 * En el Ejercicio 1, se realizó un análisis de las cinco bases propuestas (gpa1, hprice2, wage1, ceosal1 y crime1). Luego, en el Ejercicio 4, se contrastó gpa1 con hprice2, ya que esta última presentó un coeficiente de determinación (R²) considerablemente más alto.
   
-Para el Ejercicio 7, que aborda el problema de la multicolinealidad, se realizó el diagnóstico tanto sobre gpa1 como sobre hprice2. En este caso, se eligió hprice2 como comparación porque mostró valores de VIF más elevados. 
+* Para el Ejercicio 7, que aborda el problema de la multicolinealidad, se realizó el diagnóstico tanto sobre gpa1 como sobre hprice2. En este caso, se eligió hprice2 como comparación porque mostró valores de VIF más elevados. 
 
 * Finalmente, en el Ejercicio 8, se exploró la utilidad de transformar los modelos a su forma logarítmica. Además del análisis en gpa1, se incorporó el caso de la base ceosal1.
 
