@@ -20,11 +20,14 @@ La metodología del trabajo se centró en el análisis de datos a partir de la b
 
 Durante el desarrollo del trabajo se aplicaron herramientas estadísticas para interpretar la relación entre variables, realizar inferencias, validar los supuestos del modelo, y explorar transformaciones funcionales que mejoren el ajuste y la interpretación de los resultados. Todo el proceso fue implementado de forma reproducible en notebooks, documentando cada etapa del análisis.
 
-El desarrollo completo del trabajo práctico en Python, incluyendo el análisis estadístico, la estimación de modelos y los comentarios de resultados, puede consultarse en el siguiente enlace a Google Colab:
+El desarrollo completo del trabajo práctico en Python y en R, incluyendo el análisis estadístico, la estimación de modelos y los comentarios de resultados, puede consultarse en los siguientes enlaces a Google Colab:
 
-[Enlace al Notebook de Análisis en Google Colab](https://drive.google.com/file/d/1Zi_sc6qak4y59HLRrdIh8o-0ch2X_8UE/view?usp=sharing)
+[Enlace al Notebook de Análisis en Python en Google Colab](https://drive.google.com/file/d/1Zi_sc6qak4y59HLRrdIh8o-0ch2X_8UE/view?usp=sharing)
 
-Este notebook contiene el código documentado y los outputs generados, permitiendo reproducir todos los pasos del análisis realizado.
+[Enlace al Notebook de Análisis en R en Google Colab](https://drive.google.com/file/d/1GCGmbZX-BMldWSs2y-93fbiyObh04yTr/view?usp=sharing)
+
+
+Ambos notebooks contienen el código documentado y los outputs generados, permitiendo reproducir todos los pasos del análisis realizado.
 
 
 ## Insights Clave y Hallazgos Principales
